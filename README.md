@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young1ll&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!--
 **Young1ll/young1ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young1ll&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-</div>
