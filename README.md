@@ -1,4 +1,4 @@
-<div align="cneter">
+<div align="center">
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young1ll&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
