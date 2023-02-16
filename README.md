@@ -4,7 +4,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young1ll&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y_kyul)](https://solved.ac/y_kyul/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y_kuyl)](https://solved.ac/y_kuyl/)
 
 
 <!--
