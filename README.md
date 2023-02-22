@@ -3,6 +3,7 @@
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=y_kyul)](https://solved.ac/y_kyul)
 <div align=center>
+  https://img.shields.io/badge/left-right-f39f37
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young1ll&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
