@@ -2,6 +2,7 @@
   ---
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=y_kyul)](https://solved.ac/y_kyul)
+[![badge](https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699)](https://solved.ac/y_kyul)
 <div align=center>
   
   
