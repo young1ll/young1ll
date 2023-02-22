@@ -2,7 +2,7 @@
   ---
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=y_kyul)](https://solved.ac/y_kyul)
-https://img.shields.io/badge/left-right-f39f37
+<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
 <div align=center>
   
   
