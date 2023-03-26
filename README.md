@@ -1,8 +1,8 @@
-### <img src="https://sethusenthil.com/SethuSenthil/assets/waving-hand.gif" height="50"/>, Young ill, Cho
+## <img src="https://sethusenthil.com/SethuSenthil/assets/waving-hand.gif" height="50"/>, Young ill, Cho
 
 Welcome!
 
-### I'm currently learning
+## I'm currently learning
 
 - Java ![badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 - Spring
