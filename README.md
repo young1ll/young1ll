@@ -1,8 +1,8 @@
-## <img src="https://sethusenthil.com/SethuSenthil/assets/waving-hand.gif" height="45"/><span style="position: absolute; top: 13px;">, Young ill, Cho</span>
+## <img src="https://sethusenthil.com/SethuSenthil/assets/waving-hand.gif" height="45"/>, Young ill, Cho
 
 Welcome!
 
-## I'm currently learning
+## 🌱 I'm currently learning
 
 ![badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=OpenJDK&logoColor=fff) 
 ![badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=fff)
