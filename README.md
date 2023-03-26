@@ -1,10 +1,9 @@
-  ### <img src="https://sethusenthil.com/SethuSenthil/assets/waving-hand.gif" height="50"/>, Hi there 👋
+  ### <img src="https://sethusenthil.com/SethuSenthil/assets/waving-hand.gif" height="50"/>, Young ill, Cho
   ---
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=y_kyul)](https://solved.ac/y_kyul)
-
   ### I'm currently learning
   ---
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=y_kyul)](https://solved.ac/y_kyul)
+
 <div align=center>
   
   
