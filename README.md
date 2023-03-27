@@ -1,4 +1,4 @@
-## <img src="asset/waving-hand.gif" height="45"/>, I'm Young ill
+## <img src="asset/waving-hand.gif" height="45"/>, I'm Young ill!
 
 Welcome!
 
