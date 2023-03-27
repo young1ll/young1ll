@@ -1,4 +1,4 @@
-## <img src="https://sethusenthil.com/SethuSenthil/assets/waving-hand.gif" height="45"/>, Young ill, Cho
+## <img src="asset/waving-hand.gif" height="45"/>, Young ill, Cho
 
 Welcome!
 
